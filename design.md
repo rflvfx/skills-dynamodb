@@ -246,3 +246,4 @@
 - Add helper — iteration 38 (2026)
 - Extend coverage — iteration 39 (2026)
 - Add helper — iteration 40 (2026)
+- Add validation — iteration 43 (2026)
