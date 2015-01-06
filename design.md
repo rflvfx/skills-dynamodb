@@ -11,3 +11,4 @@
 - Tweak implementation — iteration 16 (2015)
 - Minor cleanup — iteration 21 (2015)
 - Minor cleanup — iteration 22 (2015)
+- Update docs — iteration 29 (2015)
