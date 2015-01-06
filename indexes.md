@@ -12,3 +12,4 @@
 - Add example — iteration 33 (2015)
 - Improve error handling — iteration 38 (2015)
 - Improve error handling — iteration 39 (2015)
+- Update config — iteration 40 (2015)
