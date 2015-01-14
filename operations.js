@@ -25,3 +25,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 30 (2015)
 - Update docs — iteration 31 (2015)
 - Minor cleanup — iteration 35 (2015)
+- Improve naming — iteration 37 (2015)
