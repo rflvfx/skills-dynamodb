@@ -10,3 +10,4 @@
 - Add example — iteration 26 (2015)
 - Polish code — iteration 28 (2015)
 - Add example — iteration 33 (2015)
+- Improve error handling — iteration 38 (2015)
