@@ -21,3 +21,4 @@ await doc.send(new QueryCommand({
 - Add helper — iteration 14 (2015)
 - Fix lint warnings — iteration 15 (2015)
 - Fix typo — iteration 25 (2015)
+- Fix typo — iteration 27 (2015)
