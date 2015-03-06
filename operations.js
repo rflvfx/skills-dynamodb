@@ -31,3 +31,4 @@ await doc.send(new QueryCommand({
 - Extend coverage — iteration 45 (2015)
 - Minor cleanup — iteration 46 (2015)
 - Update docs — iteration 54 (2015)
+- Add helper — iteration 57 (2015)
