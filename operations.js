@@ -23,3 +23,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 25 (2015)
 - Fix typo — iteration 27 (2015)
 - Add tests — iteration 30 (2015)
+- Update docs — iteration 31 (2015)
