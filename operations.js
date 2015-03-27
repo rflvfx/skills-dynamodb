@@ -17,3 +17,4 @@ await doc.send(new QueryCommand({
 - Improve error handling — iteration 5 (2015)
 - Add validation — iteration 9 (2015)
 - Polish code — iteration 10 (2015)
+- Minor cleanup — iteration 13 (2015)
