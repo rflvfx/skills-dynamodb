@@ -14,3 +14,4 @@ await doc.send(new QueryCommand({
   ExpressionAttributeValues: { ":pk": "USER#1" },
 }));
 - Tweak implementation — iteration 2 (2015)
+- Improve error handling — iteration 5 (2015)
