@@ -17,3 +17,4 @@
 - Update dependencies — iteration 42 (2015)
 - Document usage — iteration 47 (2015)
 - Fix edge case — iteration 48 (2015)
+- Optimize performance — iteration 49 (2015)
