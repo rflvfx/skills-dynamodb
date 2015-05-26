@@ -11,3 +11,4 @@
 - Polish code — iteration 28 (2015)
 - Add example — iteration 33 (2015)
 - Improve error handling — iteration 38 (2015)
+- Improve error handling — iteration 39 (2015)
