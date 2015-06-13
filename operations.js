@@ -32,3 +32,4 @@ await doc.send(new QueryCommand({
 - Minor cleanup — iteration 46 (2015)
 - Update docs — iteration 54 (2015)
 - Add helper — iteration 57 (2015)
+- Document usage — iteration 59 (2015)
