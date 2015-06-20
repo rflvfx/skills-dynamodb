@@ -19,3 +19,4 @@
 - Fix edge case — iteration 48 (2015)
 - Optimize performance — iteration 49 (2015)
 - Tweak implementation — iteration 52 (2015)
+- Fix lint warnings — iteration 55 (2015)
