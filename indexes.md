@@ -1,2 +1,3 @@
 - Add helper — iteration 1 (2015)
 - Add example — iteration 4 (2015)
+- Polish code — iteration 12 (2015)
