@@ -6,3 +6,4 @@
 - Fix typo — iteration 3 (2015)
 - Improve naming — iteration 6 (2015)
 - Tweak implementation — iteration 7 (2015)
+- Add example — iteration 8 (2015)
