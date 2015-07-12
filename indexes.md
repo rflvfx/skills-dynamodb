@@ -7,3 +7,4 @@
 - Fix lint warnings — iteration 20 (2015)
 - Add helper — iteration 23 (2015)
 - Tweak implementation — iteration 24 (2015)
+- Add example — iteration 26 (2015)
