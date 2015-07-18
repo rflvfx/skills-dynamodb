@@ -28,3 +28,4 @@ await doc.send(new QueryCommand({
 - Improve naming — iteration 37 (2015)
 - Polish code — iteration 43 (2015)
 - Refactor module — iteration 44 (2015)
+- Extend coverage — iteration 45 (2015)
