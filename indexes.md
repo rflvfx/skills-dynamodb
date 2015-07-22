@@ -21,3 +21,4 @@
 - Tweak implementation — iteration 52 (2015)
 - Fix lint warnings — iteration 55 (2015)
 - Fix typo — iteration 56 (2015)
+- Minor cleanup — iteration 58 (2015)
