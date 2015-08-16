@@ -8,3 +8,4 @@
 - Add helper — iteration 23 (2015)
 - Tweak implementation — iteration 24 (2015)
 - Add example — iteration 26 (2015)
+- Polish code — iteration 28 (2015)
