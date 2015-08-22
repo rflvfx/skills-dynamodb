@@ -14,3 +14,4 @@
 - Update docs — iteration 29 (2015)
 - Add feature — iteration 32 (2015)
 - Add feature — iteration 34 (2015)
+- Refactor module — iteration 36 (2015)
