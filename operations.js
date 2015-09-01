@@ -15,3 +15,4 @@ await doc.send(new QueryCommand({
 }));
 - Tweak implementation — iteration 2 (2015)
 - Improve error handling — iteration 5 (2015)
+- Add validation — iteration 9 (2015)
