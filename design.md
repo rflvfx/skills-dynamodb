@@ -9,3 +9,4 @@
 - Add example — iteration 8 (2015)
 - Add tests — iteration 11 (2015)
 - Tweak implementation — iteration 16 (2015)
+- Minor cleanup — iteration 21 (2015)
