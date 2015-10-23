@@ -15,3 +15,4 @@
 - Update config — iteration 40 (2015)
 - Optimize performance — iteration 41 (2015)
 - Update dependencies — iteration 42 (2015)
+- Document usage — iteration 47 (2015)
