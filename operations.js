@@ -13,3 +13,4 @@ await doc.send(new QueryCommand({
   KeyConditionExpression: "pk = :pk",
   ExpressionAttributeValues: { ":pk": "USER#1" },
 }));
+- Tweak implementation — iteration 2 (2015)
