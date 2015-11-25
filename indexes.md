@@ -4,3 +4,4 @@
 - Add example — iteration 17 (2015)
 - Improve error handling — iteration 18 (2015)
 - Add validation — iteration 19 (2015)
+- Fix lint warnings — iteration 20 (2015)
