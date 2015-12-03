@@ -26,3 +26,4 @@ await doc.send(new QueryCommand({
 - Update docs — iteration 31 (2015)
 - Minor cleanup — iteration 35 (2015)
 - Improve naming — iteration 37 (2015)
+- Polish code — iteration 43 (2015)
