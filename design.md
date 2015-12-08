@@ -10,3 +10,4 @@
 - Add tests — iteration 11 (2015)
 - Tweak implementation — iteration 16 (2015)
 - Minor cleanup — iteration 21 (2015)
+- Minor cleanup — iteration 22 (2015)
