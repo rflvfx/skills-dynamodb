@@ -14,3 +14,4 @@
 - Improve error handling — iteration 39 (2015)
 - Update config — iteration 40 (2015)
 - Optimize performance — iteration 41 (2015)
+- Update dependencies — iteration 42 (2015)
