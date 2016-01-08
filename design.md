@@ -21,3 +21,4 @@
 - Add example — iteration 1 (2016)
 - Fix typo — iteration 2 (2016)
 - Add example — iteration 5 (2016)
+- Refactor module — iteration 8 (2016)
