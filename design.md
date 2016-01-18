@@ -35,3 +35,4 @@
 - Optimize performance — iteration 39 (2016)
 - Add tests — iteration 40 (2016)
 - Improve naming — iteration 41 (2016)
+- Document usage — iteration 46 (2016)
