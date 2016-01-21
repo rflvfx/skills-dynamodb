@@ -24,3 +24,4 @@
 - Minor cleanup — iteration 58 (2015)
 - Improve error handling — iteration 7 (2016)
 - Optimize performance — iteration 9 (2016)
+- Document usage — iteration 16 (2016)
