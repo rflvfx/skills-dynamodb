@@ -53,3 +53,4 @@ await doc.send(new QueryCommand({
 - Improve error handling — iteration 44 (2016)
 - Extend coverage — iteration 47 (2016)
 - Improve naming — iteration 50 (2016)
+- Fix edge case — iteration 51 (2016)
