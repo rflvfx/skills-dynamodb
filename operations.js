@@ -55,3 +55,4 @@ await doc.send(new QueryCommand({
 - Improve naming — iteration 50 (2016)
 - Fix edge case — iteration 51 (2016)
 - Add helper — iteration 52 (2016)
+- Update dependencies — iteration 55 (2016)
