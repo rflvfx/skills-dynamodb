@@ -32,3 +32,4 @@
 - Improve error handling — iteration 31 (2016)
 - Add validation — iteration 38 (2016)
 - Update docs — iteration 42 (2016)
+- Polish code — iteration 45 (2016)
