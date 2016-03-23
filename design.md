@@ -20,3 +20,4 @@
 - Refactor module — iteration 53 (2015)
 - Add example — iteration 1 (2016)
 - Fix typo — iteration 2 (2016)
+- Add example — iteration 5 (2016)
