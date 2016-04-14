@@ -41,3 +41,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 13 (2016)
 - Extend coverage — iteration 15 (2016)
 - Fix typo — iteration 18 (2016)
+- Fix lint warnings — iteration 19 (2016)
