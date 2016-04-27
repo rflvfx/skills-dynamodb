@@ -26,3 +26,4 @@
 - Fix edge case — iteration 12 (2016)
 - Fix typo — iteration 14 (2016)
 - Add validation — iteration 21 (2016)
+- Fix typo — iteration 25 (2016)
