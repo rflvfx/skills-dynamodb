@@ -35,3 +35,4 @@
 - Polish code — iteration 45 (2016)
 - Refactor module — iteration 48 (2016)
 - Tweak implementation — iteration 49 (2016)
+- Add feature — iteration 60 (2016)
