@@ -27,3 +27,4 @@
 - Document usage — iteration 16 (2016)
 - Extend coverage — iteration 17 (2016)
 - Extend coverage — iteration 23 (2016)
+- Tweak implementation — iteration 26 (2016)
