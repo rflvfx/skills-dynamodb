@@ -39,3 +39,4 @@
 - Add feature — iteration 53 (2016)
 - Add validation — iteration 54 (2016)
 - Tweak implementation — iteration 56 (2016)
+- Extend coverage — iteration 57 (2016)
