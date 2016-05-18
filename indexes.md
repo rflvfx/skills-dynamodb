@@ -30,3 +30,4 @@
 - Tweak implementation — iteration 26 (2016)
 - Tweak implementation — iteration 29 (2016)
 - Improve error handling — iteration 31 (2016)
+- Add validation — iteration 38 (2016)
