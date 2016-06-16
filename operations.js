@@ -44,3 +44,4 @@ await doc.send(new QueryCommand({
 - Fix lint warnings — iteration 19 (2016)
 - Update docs — iteration 20 (2016)
 - Polish code — iteration 22 (2016)
+- Update docs — iteration 24 (2016)
