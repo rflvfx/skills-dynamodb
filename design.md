@@ -18,3 +18,4 @@
 - Add validation — iteration 50 (2015)
 - Update dependencies — iteration 51 (2015)
 - Refactor module — iteration 53 (2015)
+- Add example — iteration 1 (2016)
