@@ -45,3 +45,4 @@ await doc.send(new QueryCommand({
 - Update docs — iteration 20 (2016)
 - Polish code — iteration 22 (2016)
 - Update docs — iteration 24 (2016)
+- Document usage — iteration 27 (2016)
