@@ -28,3 +28,4 @@
 - Add validation — iteration 21 (2016)
 - Fix typo — iteration 25 (2016)
 - Extend coverage — iteration 30 (2016)
+- Add tests — iteration 32 (2016)
