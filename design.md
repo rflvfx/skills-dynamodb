@@ -30,3 +30,4 @@
 - Extend coverage — iteration 30 (2016)
 - Add tests — iteration 32 (2016)
 - Update dependencies — iteration 35 (2016)
+- Fix typo — iteration 36 (2016)
