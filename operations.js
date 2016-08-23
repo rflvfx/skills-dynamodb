@@ -47,3 +47,4 @@ await doc.send(new QueryCommand({
 - Update docs — iteration 24 (2016)
 - Document usage — iteration 27 (2016)
 - Improve error handling — iteration 28 (2016)
+- Improve error handling — iteration 33 (2016)
