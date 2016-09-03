@@ -33,3 +33,4 @@
 - Add validation — iteration 38 (2016)
 - Update docs — iteration 42 (2016)
 - Polish code — iteration 45 (2016)
+- Refactor module — iteration 48 (2016)
