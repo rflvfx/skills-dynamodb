@@ -27,3 +27,4 @@
 - Fix typo — iteration 14 (2016)
 - Add validation — iteration 21 (2016)
 - Fix typo — iteration 25 (2016)
+- Extend coverage — iteration 30 (2016)
