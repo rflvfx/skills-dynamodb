@@ -40,3 +40,4 @@ await doc.send(new QueryCommand({
 - Fix edge case — iteration 10 (2016)
 - Fix typo — iteration 13 (2016)
 - Extend coverage — iteration 15 (2016)
+- Fix typo — iteration 18 (2016)
