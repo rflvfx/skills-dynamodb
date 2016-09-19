@@ -23,3 +23,4 @@
 - Add example — iteration 5 (2016)
 - Refactor module — iteration 8 (2016)
 - Fix lint warnings — iteration 11 (2016)
+- Fix edge case — iteration 12 (2016)
