@@ -51,3 +51,4 @@ await doc.send(new QueryCommand({
 - Add example — iteration 34 (2016)
 - Polish code — iteration 43 (2016)
 - Improve error handling — iteration 44 (2016)
+- Extend coverage — iteration 47 (2016)
