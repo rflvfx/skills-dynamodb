@@ -46,3 +46,4 @@ await doc.send(new QueryCommand({
 - Polish code — iteration 22 (2016)
 - Update docs — iteration 24 (2016)
 - Document usage — iteration 27 (2016)
+- Improve error handling — iteration 28 (2016)
