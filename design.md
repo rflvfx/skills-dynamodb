@@ -22,3 +22,4 @@
 - Fix typo — iteration 2 (2016)
 - Add example — iteration 5 (2016)
 - Refactor module — iteration 8 (2016)
+- Fix lint warnings — iteration 11 (2016)
