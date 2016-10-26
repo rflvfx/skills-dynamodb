@@ -33,3 +33,4 @@
 - Fix typo — iteration 36 (2016)
 - Update dependencies — iteration 37 (2016)
 - Optimize performance — iteration 39 (2016)
+- Add tests — iteration 40 (2016)
