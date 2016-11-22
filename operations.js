@@ -48,3 +48,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 27 (2016)
 - Improve error handling — iteration 28 (2016)
 - Improve error handling — iteration 33 (2016)
+- Add example — iteration 34 (2016)
