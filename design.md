@@ -37,3 +37,4 @@
 - Improve naming — iteration 41 (2016)
 - Document usage — iteration 46 (2016)
 - Add feature — iteration 53 (2016)
+- Add validation — iteration 54 (2016)
