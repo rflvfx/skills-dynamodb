@@ -26,3 +26,4 @@
 - Optimize performance — iteration 9 (2016)
 - Document usage — iteration 16 (2016)
 - Extend coverage — iteration 17 (2016)
+- Extend coverage — iteration 23 (2016)
