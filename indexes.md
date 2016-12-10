@@ -29,3 +29,4 @@
 - Extend coverage — iteration 23 (2016)
 - Tweak implementation — iteration 26 (2016)
 - Tweak implementation — iteration 29 (2016)
+- Improve error handling — iteration 31 (2016)
