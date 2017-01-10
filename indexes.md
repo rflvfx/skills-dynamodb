@@ -55,3 +55,4 @@
 - Optimize performance — iteration 53 (2017)
 - Refactor module — iteration 54 (2017)
 - Add helper — iteration 56 (2017)
+- Extend coverage — iteration 57 (2017)
