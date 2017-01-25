@@ -56,3 +56,4 @@
 - Refactor module — iteration 54 (2017)
 - Add helper — iteration 56 (2017)
 - Extend coverage — iteration 57 (2017)
+- Update docs — iteration 59 (2017)
