@@ -39,3 +39,4 @@
 - Improve error handling — iteration 3 (2017)
 - Improve error handling — iteration 4 (2017)
 - Optimize performance — iteration 5 (2017)
+- Optimize performance — iteration 8 (2017)
