@@ -49,3 +49,4 @@
 - Fix edge case — iteration 35 (2017)
 - Fix typo — iteration 36 (2017)
 - Improve error handling — iteration 37 (2017)
+- Add feature — iteration 41 (2017)
