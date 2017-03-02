@@ -58,3 +58,4 @@
 - Add feature — iteration 42 (2017)
 - Fix edge case — iteration 44 (2017)
 - Add validation — iteration 46 (2017)
+- Minor cleanup — iteration 48 (2017)
