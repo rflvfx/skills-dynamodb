@@ -43,3 +43,4 @@
 - Refactor module — iteration 58 (2016)
 - Minor cleanup — iteration 59 (2016)
 - Minor cleanup — iteration 1 (2017)
+- Fix edge case — iteration 2 (2017)
