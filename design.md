@@ -48,3 +48,4 @@
 - Update docs — iteration 11 (2017)
 - Add tests — iteration 18 (2017)
 - Fix lint warnings — iteration 19 (2017)
+- Update docs — iteration 24 (2017)
