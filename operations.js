@@ -68,3 +68,4 @@ await doc.send(new QueryCommand({
 - Update config — iteration 25 (2017)
 - Add tests — iteration 26 (2017)
 - Refactor module — iteration 31 (2017)
+- Add helper — iteration 32 (2017)
