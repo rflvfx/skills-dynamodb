@@ -69,3 +69,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 26 (2017)
 - Refactor module — iteration 31 (2017)
 - Add helper — iteration 32 (2017)
+- Improve naming — iteration 38 (2017)
