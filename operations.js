@@ -60,3 +60,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 7 (2017)
 - Update config — iteration 10 (2017)
 - Improve error handling — iteration 12 (2017)
+- Add validation — iteration 13 (2017)
