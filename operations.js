@@ -64,3 +64,4 @@ await doc.send(new QueryCommand({
 - Extend coverage — iteration 14 (2017)
 - Refactor module — iteration 16 (2017)
 - Update docs — iteration 17 (2017)
+- Fix edge case — iteration 22 (2017)
