@@ -50,3 +50,4 @@
 - Fix typo — iteration 36 (2017)
 - Improve error handling — iteration 37 (2017)
 - Add feature — iteration 41 (2017)
+- Add tests — iteration 43 (2017)
