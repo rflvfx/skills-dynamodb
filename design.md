@@ -55,3 +55,4 @@
 - Document usage — iteration 34 (2017)
 - Update dependencies — iteration 39 (2017)
 - Fix edge case — iteration 40 (2017)
+- Add feature — iteration 42 (2017)
