@@ -52,3 +52,4 @@
 - Extend coverage — iteration 27 (2017)
 - Add tests — iteration 28 (2017)
 - Improve naming — iteration 30 (2017)
+- Document usage — iteration 34 (2017)
