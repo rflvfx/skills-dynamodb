@@ -61,3 +61,4 @@ await doc.send(new QueryCommand({
 - Update config — iteration 10 (2017)
 - Improve error handling — iteration 12 (2017)
 - Add validation — iteration 13 (2017)
+- Extend coverage — iteration 14 (2017)
