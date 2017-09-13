@@ -70,3 +70,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 31 (2017)
 - Add helper — iteration 32 (2017)
 - Improve naming — iteration 38 (2017)
+- Add validation — iteration 45 (2017)
