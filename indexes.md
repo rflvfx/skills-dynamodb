@@ -41,3 +41,4 @@
 - Optimize performance — iteration 5 (2017)
 - Optimize performance — iteration 8 (2017)
 - Update config — iteration 15 (2017)
+- Tweak implementation — iteration 20 (2017)
