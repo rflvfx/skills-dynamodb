@@ -40,3 +40,4 @@
 - Improve error handling — iteration 4 (2017)
 - Optimize performance — iteration 5 (2017)
 - Optimize performance — iteration 8 (2017)
+- Update config — iteration 15 (2017)
