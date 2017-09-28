@@ -53,3 +53,4 @@
 - Add tests — iteration 28 (2017)
 - Improve naming — iteration 30 (2017)
 - Document usage — iteration 34 (2017)
+- Update dependencies — iteration 39 (2017)
