@@ -43,3 +43,4 @@
 - Update config — iteration 15 (2017)
 - Tweak implementation — iteration 20 (2017)
 - Fix typo — iteration 21 (2017)
+- Fix edge case — iteration 23 (2017)
