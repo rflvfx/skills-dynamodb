@@ -66,3 +66,4 @@ await doc.send(new QueryCommand({
 - Update docs — iteration 17 (2017)
 - Fix edge case — iteration 22 (2017)
 - Update config — iteration 25 (2017)
+- Add tests — iteration 26 (2017)
