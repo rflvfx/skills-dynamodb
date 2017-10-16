@@ -42,3 +42,4 @@
 - Optimize performance — iteration 8 (2017)
 - Update config — iteration 15 (2017)
 - Tweak implementation — iteration 20 (2017)
+- Fix typo — iteration 21 (2017)
