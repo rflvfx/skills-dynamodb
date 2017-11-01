@@ -49,3 +49,4 @@
 - Add tests — iteration 18 (2017)
 - Fix lint warnings — iteration 19 (2017)
 - Update docs — iteration 24 (2017)
+- Extend coverage — iteration 27 (2017)
