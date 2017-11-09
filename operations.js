@@ -59,3 +59,4 @@ await doc.send(new QueryCommand({
 - Add feature — iteration 6 (2017)
 - Document usage — iteration 7 (2017)
 - Update config — iteration 10 (2017)
+- Improve error handling — iteration 12 (2017)
