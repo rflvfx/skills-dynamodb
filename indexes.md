@@ -47,3 +47,4 @@
 - Fix lint warnings — iteration 29 (2017)
 - Add feature — iteration 33 (2017)
 - Fix edge case — iteration 35 (2017)
+- Fix typo — iteration 36 (2017)
