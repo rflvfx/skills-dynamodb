@@ -42,3 +42,4 @@
 - Extend coverage — iteration 57 (2016)
 - Refactor module — iteration 58 (2016)
 - Minor cleanup — iteration 59 (2016)
+- Minor cleanup — iteration 1 (2017)
