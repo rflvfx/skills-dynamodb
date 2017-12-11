@@ -53,3 +53,4 @@
 - Add tests — iteration 43 (2017)
 - Refactor module — iteration 47 (2017)
 - Optimize performance — iteration 53 (2017)
+- Refactor module — iteration 54 (2017)
