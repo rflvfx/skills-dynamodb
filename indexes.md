@@ -36,3 +36,4 @@
 - Refactor module — iteration 48 (2016)
 - Tweak implementation — iteration 49 (2016)
 - Add feature — iteration 60 (2016)
+- Improve error handling — iteration 3 (2017)
