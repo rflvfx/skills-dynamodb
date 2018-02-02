@@ -66,3 +66,4 @@
 - Update docs — iteration 25 (2018)
 - Optimize performance — iteration 28 (2018)
 - Document usage — iteration 30 (2018)
+- Refactor module — iteration 36 (2018)
