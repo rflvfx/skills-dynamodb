@@ -79,3 +79,4 @@
 - Add tests — iteration 38 (2018)
 - Fix typo — iteration 41 (2018)
 - Add example — iteration 43 (2018)
+- Fix lint warnings — iteration 49 (2018)
