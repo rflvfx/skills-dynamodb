@@ -61,3 +61,4 @@
 - Minor cleanup — iteration 48 (2017)
 - Add validation — iteration 50 (2017)
 - Fix edge case — iteration 55 (2017)
+- Update docs — iteration 3 (2018)
