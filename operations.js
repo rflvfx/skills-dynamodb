@@ -87,3 +87,4 @@ await doc.send(new QueryCommand({
 - Update config — iteration 22 (2018)
 - Add example — iteration 32 (2018)
 - Update dependencies — iteration 33 (2018)
+- Document usage — iteration 37 (2018)
