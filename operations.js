@@ -84,3 +84,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 17 (2018)
 - Fix typo — iteration 19 (2018)
 - Improve naming — iteration 21 (2018)
+- Update config — iteration 22 (2018)
