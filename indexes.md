@@ -65,3 +65,4 @@
 - Optimize performance — iteration 24 (2018)
 - Update docs — iteration 25 (2018)
 - Optimize performance — iteration 28 (2018)
+- Document usage — iteration 30 (2018)
