@@ -73,3 +73,4 @@
 - Fix lint warnings — iteration 26 (2018)
 - Improve error handling — iteration 27 (2018)
 - Update dependencies — iteration 29 (2018)
+- Optimize performance — iteration 31 (2018)
