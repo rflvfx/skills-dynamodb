@@ -75,3 +75,4 @@
 - Optimize performance — iteration 48 (2018)
 - Add tests — iteration 52 (2018)
 - Update dependencies — iteration 53 (2018)
+- Improve naming — iteration 54 (2018)
