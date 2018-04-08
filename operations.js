@@ -82,3 +82,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 12 (2018)
 - Polish code — iteration 14 (2018)
 - Refactor module — iteration 17 (2018)
+- Fix typo — iteration 19 (2018)
