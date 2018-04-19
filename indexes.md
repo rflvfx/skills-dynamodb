@@ -73,3 +73,4 @@
 - Update config — iteration 46 (2018)
 - Fix typo — iteration 47 (2018)
 - Optimize performance — iteration 48 (2018)
+- Add tests — iteration 52 (2018)
