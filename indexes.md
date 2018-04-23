@@ -60,3 +60,4 @@
 - Add feature — iteration 60 (2017)
 - Improve error handling — iteration 5 (2018)
 - Add validation — iteration 13 (2018)
+- Improve naming — iteration 15 (2018)
