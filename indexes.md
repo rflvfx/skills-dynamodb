@@ -68,3 +68,4 @@
 - Document usage — iteration 30 (2018)
 - Refactor module — iteration 36 (2018)
 - Update dependencies — iteration 42 (2018)
+- Add feature — iteration 44 (2018)
