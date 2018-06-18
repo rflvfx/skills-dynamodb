@@ -69,3 +69,4 @@
 - Fix lint warnings — iteration 10 (2018)
 - Add validation — iteration 16 (2018)
 - Polish code — iteration 20 (2018)
+- Document usage — iteration 23 (2018)
