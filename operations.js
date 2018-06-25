@@ -91,3 +91,4 @@ await doc.send(new QueryCommand({
 - Add example — iteration 39 (2018)
 - Document usage — iteration 40 (2018)
 - Refactor module — iteration 50 (2018)
+- Add example — iteration 55 (2018)
