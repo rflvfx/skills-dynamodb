@@ -64,3 +64,4 @@
 - Update docs — iteration 3 (2018)
 - Refactor module — iteration 6 (2018)
 - Add example — iteration 7 (2018)
+- Polish code — iteration 8 (2018)
