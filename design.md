@@ -77,3 +77,4 @@
 - Optimize performance — iteration 34 (2018)
 - Add validation — iteration 35 (2018)
 - Add tests — iteration 38 (2018)
+- Fix typo — iteration 41 (2018)
