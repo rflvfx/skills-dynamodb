@@ -79,3 +79,4 @@ await doc.send(new QueryCommand({
 - Add helper — iteration 2 (2018)
 - Add feature — iteration 4 (2018)
 - Refactor module — iteration 11 (2018)
+- Refactor module — iteration 12 (2018)
