@@ -61,3 +61,4 @@
 - Improve error handling — iteration 5 (2018)
 - Add validation — iteration 13 (2018)
 - Improve naming — iteration 15 (2018)
+- Tweak implementation — iteration 18 (2018)
