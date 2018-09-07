@@ -63,3 +63,4 @@
 - Improve naming — iteration 15 (2018)
 - Tweak implementation — iteration 18 (2018)
 - Optimize performance — iteration 24 (2018)
+- Update docs — iteration 25 (2018)
