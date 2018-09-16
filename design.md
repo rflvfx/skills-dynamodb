@@ -62,3 +62,4 @@
 - Add validation — iteration 50 (2017)
 - Fix edge case — iteration 55 (2017)
 - Update docs — iteration 3 (2018)
+- Refactor module — iteration 6 (2018)
