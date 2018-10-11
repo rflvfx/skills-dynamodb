@@ -68,3 +68,4 @@
 - Optimize performance — iteration 9 (2018)
 - Fix lint warnings — iteration 10 (2018)
 - Add validation — iteration 16 (2018)
+- Polish code — iteration 20 (2018)
