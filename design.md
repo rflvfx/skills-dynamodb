@@ -71,3 +71,4 @@
 - Polish code — iteration 20 (2018)
 - Document usage — iteration 23 (2018)
 - Fix lint warnings — iteration 26 (2018)
+- Improve error handling — iteration 27 (2018)
