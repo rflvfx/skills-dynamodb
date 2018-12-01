@@ -81,3 +81,4 @@
 - Add example — iteration 43 (2018)
 - Fix lint warnings — iteration 49 (2018)
 - Minor cleanup — iteration 51 (2018)
+- Improve error handling — iteration 57 (2018)
