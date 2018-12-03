@@ -76,3 +76,4 @@ await doc.send(new QueryCommand({
 - Update dependencies — iteration 52 (2017)
 - Document usage — iteration 58 (2017)
 - Extend coverage — iteration 1 (2018)
+- Add helper — iteration 2 (2018)
