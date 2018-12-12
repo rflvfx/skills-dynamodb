@@ -67,3 +67,4 @@
 - Polish code — iteration 8 (2018)
 - Optimize performance — iteration 9 (2018)
 - Fix lint warnings — iteration 10 (2018)
+- Add validation — iteration 16 (2018)
