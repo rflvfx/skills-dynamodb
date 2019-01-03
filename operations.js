@@ -103,3 +103,4 @@ await doc.send(new QueryCommand({
 - Fix edge case — iteration 28 (2019)
 - Refactor module — iteration 29 (2019)
 - Fix typo — iteration 30 (2019)
+- Tweak implementation — iteration 32 (2019)
