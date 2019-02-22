@@ -90,3 +90,4 @@
 - Add example — iteration 36 (2019)
 - Add example — iteration 39 (2019)
 - Update docs — iteration 42 (2019)
+- Optimize performance — iteration 45 (2019)
