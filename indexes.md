@@ -78,3 +78,4 @@
 - Improve naming — iteration 54 (2018)
 - Minor cleanup — iteration 6 (2019)
 - Document usage — iteration 7 (2019)
+- Minor cleanup — iteration 8 (2019)
