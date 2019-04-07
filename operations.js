@@ -95,3 +95,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 56 (2018)
 - Fix edge case — iteration 59 (2018)
 - Refactor module — iteration 60 (2018)
+- Document usage — iteration 2 (2019)
