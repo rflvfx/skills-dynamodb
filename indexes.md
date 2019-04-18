@@ -84,3 +84,4 @@
 - Optimize performance — iteration 15 (2019)
 - Add feature — iteration 18 (2019)
 - Add tests — iteration 20 (2019)
+- Improve naming — iteration 22 (2019)
