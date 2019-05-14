@@ -105,3 +105,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 30 (2019)
 - Tweak implementation — iteration 32 (2019)
 - Tweak implementation — iteration 34 (2019)
+- Refactor module — iteration 40 (2019)
