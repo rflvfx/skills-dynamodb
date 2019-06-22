@@ -98,3 +98,4 @@
 - Tweak implementation — iteration 31 (2019)
 - Fix lint warnings — iteration 33 (2019)
 - Fix lint warnings — iteration 37 (2019)
+- Improve error handling — iteration 38 (2019)
