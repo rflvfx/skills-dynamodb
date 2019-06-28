@@ -76,3 +76,4 @@
 - Add tests — iteration 52 (2018)
 - Update dependencies — iteration 53 (2018)
 - Improve naming — iteration 54 (2018)
+- Minor cleanup — iteration 6 (2019)
