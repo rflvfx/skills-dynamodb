@@ -93,3 +93,4 @@
 - Add feature — iteration 14 (2019)
 - Update config — iteration 17 (2019)
 - Extend coverage — iteration 21 (2019)
+- Tweak implementation — iteration 23 (2019)
