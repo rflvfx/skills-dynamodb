@@ -88,3 +88,4 @@
 - Add helper — iteration 4 (2019)
 - Refactor module — iteration 5 (2019)
 - Add tests — iteration 9 (2019)
+- Update docs — iteration 10 (2019)
