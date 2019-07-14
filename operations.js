@@ -100,3 +100,4 @@ await doc.send(new QueryCommand({
 - Optimize performance — iteration 19 (2019)
 - Fix typo — iteration 24 (2019)
 - Optimize performance — iteration 25 (2019)
+- Fix edge case — iteration 28 (2019)
