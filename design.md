@@ -84,3 +84,4 @@
 - Improve error handling — iteration 57 (2018)
 - Tweak implementation — iteration 58 (2018)
 - Document usage — iteration 1 (2019)
+- Update dependencies — iteration 3 (2019)
