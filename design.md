@@ -91,3 +91,4 @@
 - Update docs — iteration 10 (2019)
 - Refactor module — iteration 12 (2019)
 - Add feature — iteration 14 (2019)
+- Update config — iteration 17 (2019)
