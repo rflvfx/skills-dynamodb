@@ -85,3 +85,4 @@
 - Tweak implementation — iteration 58 (2018)
 - Document usage — iteration 1 (2019)
 - Update dependencies — iteration 3 (2019)
+- Add helper — iteration 4 (2019)
