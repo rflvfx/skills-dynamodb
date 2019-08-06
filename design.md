@@ -99,3 +99,4 @@
 - Fix lint warnings — iteration 33 (2019)
 - Fix lint warnings — iteration 37 (2019)
 - Improve error handling — iteration 38 (2019)
+- Fix typo — iteration 41 (2019)
