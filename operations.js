@@ -98,3 +98,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 2 (2019)
 - Add tests — iteration 16 (2019)
 - Optimize performance — iteration 19 (2019)
+- Fix typo — iteration 24 (2019)
