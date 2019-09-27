@@ -80,3 +80,4 @@
 - Document usage — iteration 7 (2019)
 - Minor cleanup — iteration 8 (2019)
 - Add tests — iteration 11 (2019)
+- Optimize performance — iteration 13 (2019)
