@@ -86,3 +86,4 @@
 - Add tests — iteration 20 (2019)
 - Improve naming — iteration 22 (2019)
 - Add tests — iteration 26 (2019)
+- Improve error handling — iteration 35 (2019)
