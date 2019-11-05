@@ -95,3 +95,4 @@
 - Refactor module — iteration 50 (2019)
 - Update docs — iteration 56 (2019)
 - Document usage — iteration 57 (2019)
+- Add example — iteration 59 (2019)
