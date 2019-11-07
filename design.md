@@ -86,3 +86,4 @@
 - Document usage — iteration 1 (2019)
 - Update dependencies — iteration 3 (2019)
 - Add helper — iteration 4 (2019)
+- Refactor module — iteration 5 (2019)
