@@ -117,3 +117,4 @@
 - Minor cleanup — iteration 17 (2020)
 - Fix lint warnings — iteration 18 (2020)
 - Document usage — iteration 19 (2020)
+- Fix lint warnings — iteration 22 (2020)
