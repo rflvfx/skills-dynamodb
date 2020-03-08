@@ -128,3 +128,4 @@
 - Tweak implementation — iteration 49 (2020)
 - Extend coverage — iteration 53 (2020)
 - Refactor module — iteration 55 (2020)
+- Improve naming — iteration 58 (2020)
