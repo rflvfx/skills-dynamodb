@@ -121,3 +121,4 @@
 - Tweak implementation — iteration 28 (2020)
 - Tweak implementation — iteration 29 (2020)
 - Polish code — iteration 31 (2020)
+- Update dependencies — iteration 35 (2020)
