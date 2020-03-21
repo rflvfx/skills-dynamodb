@@ -123,3 +123,4 @@
 - Polish code — iteration 31 (2020)
 - Update dependencies — iteration 35 (2020)
 - Add tests — iteration 42 (2020)
+- Optimize performance — iteration 43 (2020)
