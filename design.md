@@ -111,3 +111,4 @@
 - Fix edge case — iteration 60 (2019)
 - Update docs — iteration 2 (2020)
 - Extend coverage — iteration 8 (2020)
+- Update docs — iteration 9 (2020)
