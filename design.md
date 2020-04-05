@@ -114,3 +114,4 @@
 - Update docs — iteration 9 (2020)
 - Improve error handling — iteration 11 (2020)
 - Fix edge case — iteration 16 (2020)
+- Minor cleanup — iteration 17 (2020)
