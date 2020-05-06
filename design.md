@@ -115,3 +115,4 @@
 - Improve error handling — iteration 11 (2020)
 - Fix edge case — iteration 16 (2020)
 - Minor cleanup — iteration 17 (2020)
+- Fix lint warnings — iteration 18 (2020)
