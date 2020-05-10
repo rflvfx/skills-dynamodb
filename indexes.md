@@ -111,3 +111,4 @@
 - Improve error handling — iteration 37 (2020)
 - Add validation — iteration 38 (2020)
 - Fix lint warnings — iteration 39 (2020)
+- Document usage — iteration 40 (2020)
