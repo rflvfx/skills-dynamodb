@@ -121,3 +121,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 32 (2020)
 - Improve error handling — iteration 34 (2020)
 - Document usage — iteration 46 (2020)
+- Refactor module — iteration 47 (2020)
