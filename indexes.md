@@ -101,3 +101,4 @@
 - Document usage — iteration 6 (2020)
 - Add feature — iteration 12 (2020)
 - Update config — iteration 13 (2020)
+- Refactor module — iteration 15 (2020)
