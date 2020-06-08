@@ -116,3 +116,4 @@
 - Fix edge case — iteration 16 (2020)
 - Minor cleanup — iteration 17 (2020)
 - Fix lint warnings — iteration 18 (2020)
+- Document usage — iteration 19 (2020)
