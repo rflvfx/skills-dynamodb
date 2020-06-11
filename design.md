@@ -113,3 +113,4 @@
 - Extend coverage — iteration 8 (2020)
 - Update docs — iteration 9 (2020)
 - Improve error handling — iteration 11 (2020)
+- Fix edge case — iteration 16 (2020)
