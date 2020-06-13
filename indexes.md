@@ -100,3 +100,4 @@
 - Minor cleanup — iteration 4 (2020)
 - Document usage — iteration 6 (2020)
 - Add feature — iteration 12 (2020)
+- Update config — iteration 13 (2020)
