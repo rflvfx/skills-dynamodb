@@ -102,3 +102,4 @@
 - Add feature — iteration 12 (2020)
 - Update config — iteration 13 (2020)
 - Refactor module — iteration 15 (2020)
+- Polish code — iteration 20 (2020)
