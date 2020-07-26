@@ -110,3 +110,4 @@
 - Improve naming — iteration 36 (2020)
 - Improve error handling — iteration 37 (2020)
 - Add validation — iteration 38 (2020)
+- Fix lint warnings — iteration 39 (2020)
