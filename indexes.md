@@ -106,3 +106,4 @@
 - Tweak implementation — iteration 21 (2020)
 - Add feature — iteration 23 (2020)
 - Tweak implementation — iteration 24 (2020)
+- Update dependencies — iteration 33 (2020)
