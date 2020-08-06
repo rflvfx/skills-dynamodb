@@ -116,3 +116,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 14 (2020)
 - Update dependencies — iteration 25 (2020)
 - Add helper — iteration 26 (2020)
+- Update dependencies — iteration 27 (2020)
