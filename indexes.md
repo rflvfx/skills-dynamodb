@@ -109,3 +109,4 @@
 - Update dependencies — iteration 33 (2020)
 - Improve naming — iteration 36 (2020)
 - Improve error handling — iteration 37 (2020)
+- Add validation — iteration 38 (2020)
