@@ -109,3 +109,4 @@ await doc.send(new QueryCommand({
 - Update dependencies — iteration 44 (2019)
 - Refactor module — iteration 48 (2019)
 - Minor cleanup — iteration 52 (2019)
+- Add helper — iteration 3 (2020)
