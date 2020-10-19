@@ -107,3 +107,4 @@
 - Add feature — iteration 23 (2020)
 - Tweak implementation — iteration 24 (2020)
 - Update dependencies — iteration 33 (2020)
+- Improve naming — iteration 36 (2020)
