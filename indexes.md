@@ -116,3 +116,4 @@
 - Add feature — iteration 44 (2020)
 - Update dependencies — iteration 48 (2020)
 - Refactor module — iteration 50 (2020)
+- Document usage — iteration 56 (2020)
