@@ -123,3 +123,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 46 (2020)
 - Refactor module — iteration 47 (2020)
 - Fix edge case — iteration 51 (2020)
+- Add validation — iteration 52 (2020)
