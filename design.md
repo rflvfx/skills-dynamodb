@@ -110,3 +110,4 @@
 - Add validation — iteration 58 (2019)
 - Fix edge case — iteration 60 (2019)
 - Update docs — iteration 2 (2020)
+- Extend coverage — iteration 8 (2020)
