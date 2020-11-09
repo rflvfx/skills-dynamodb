@@ -98,3 +98,4 @@
 - Add example — iteration 59 (2019)
 - Refactor module — iteration 1 (2020)
 - Minor cleanup — iteration 4 (2020)
+- Document usage — iteration 6 (2020)
