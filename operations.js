@@ -132,3 +132,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 14 (2021)
 - Update dependencies — iteration 17 (2021)
 - Add feature — iteration 21 (2021)
+- Add example — iteration 22 (2021)
