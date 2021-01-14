@@ -122,3 +122,4 @@
 - Fix edge case — iteration 9 (2021)
 - Improve error handling — iteration 11 (2021)
 - Update docs — iteration 13 (2021)
+- Document usage — iteration 20 (2021)
