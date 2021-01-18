@@ -134,3 +134,4 @@
 - Update config — iteration 4 (2021)
 - Minor cleanup — iteration 7 (2021)
 - Add example — iteration 10 (2021)
+- Improve error handling — iteration 12 (2021)
