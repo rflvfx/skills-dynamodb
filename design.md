@@ -138,3 +138,4 @@
 - Optimize performance — iteration 15 (2021)
 - Polish code — iteration 16 (2021)
 - Document usage — iteration 18 (2021)
+- Fix typo — iteration 19 (2021)
