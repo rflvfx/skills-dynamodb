@@ -121,3 +121,4 @@
 - Improve naming — iteration 6 (2021)
 - Fix edge case — iteration 9 (2021)
 - Improve error handling — iteration 11 (2021)
+- Update docs — iteration 13 (2021)
