@@ -133,3 +133,4 @@ await doc.send(new QueryCommand({
 - Update dependencies — iteration 17 (2021)
 - Add feature — iteration 21 (2021)
 - Add example — iteration 22 (2021)
+- Update config — iteration 24 (2021)
