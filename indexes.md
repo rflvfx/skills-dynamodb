@@ -125,3 +125,4 @@
 - Document usage — iteration 20 (2021)
 - Document usage — iteration 23 (2021)
 - Fix lint warnings — iteration 29 (2021)
+- Improve error handling — iteration 30 (2021)
