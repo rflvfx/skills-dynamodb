@@ -139,3 +139,4 @@ await doc.send(new QueryCommand({
 - Add helper — iteration 28 (2021)
 - Add validation — iteration 47 (2021)
 - Minor cleanup — iteration 48 (2021)
+- Fix typo — iteration 51 (2021)
