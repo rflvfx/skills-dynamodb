@@ -142,3 +142,4 @@
 - Document usage — iteration 27 (2021)
 - Fix edge case — iteration 31 (2021)
 - Minor cleanup — iteration 36 (2021)
+- Extend coverage — iteration 37 (2021)
