@@ -119,3 +119,4 @@
 - Document usage — iteration 56 (2020)
 - Update docs — iteration 5 (2021)
 - Improve naming — iteration 6 (2021)
+- Fix edge case — iteration 9 (2021)
