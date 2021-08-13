@@ -128,3 +128,4 @@
 - Improve error handling — iteration 30 (2021)
 - Minor cleanup — iteration 32 (2021)
 - Update docs — iteration 33 (2021)
+- Fix lint warnings — iteration 34 (2021)
