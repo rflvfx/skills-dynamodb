@@ -149,3 +149,4 @@
 - Polish code — iteration 44 (2021)
 - Improve naming — iteration 45 (2021)
 - Improve error handling — iteration 50 (2021)
+- Refactor module — iteration 53 (2021)
