@@ -130,3 +130,4 @@
 - Refactor module — iteration 55 (2020)
 - Improve naming — iteration 58 (2020)
 - Fix edge case — iteration 59 (2020)
+- Refactor module — iteration 1 (2021)
