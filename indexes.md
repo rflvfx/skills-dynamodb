@@ -118,3 +118,4 @@
 - Refactor module — iteration 50 (2020)
 - Document usage — iteration 56 (2020)
 - Update docs — iteration 5 (2021)
+- Improve naming — iteration 6 (2021)
