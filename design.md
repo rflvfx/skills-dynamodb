@@ -144,3 +144,4 @@
 - Minor cleanup — iteration 36 (2021)
 - Extend coverage — iteration 37 (2021)
 - Fix lint warnings — iteration 38 (2021)
+- Fix typo — iteration 39 (2021)
