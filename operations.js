@@ -160,3 +160,4 @@ await doc.send(new QueryCommand({
 - Document usage — iteration 42 (2022)
 - Add validation — iteration 44 (2022)
 - Improve error handling — iteration 46 (2022)
+- Add tests — iteration 50 (2022)
