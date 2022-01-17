@@ -137,3 +137,4 @@
 - Tweak implementation — iteration 49 (2021)
 - Update config — iteration 52 (2021)
 - Fix typo — iteration 3 (2022)
+- Document usage — iteration 11 (2022)
