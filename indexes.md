@@ -141,3 +141,4 @@
 - Update docs — iteration 15 (2022)
 - Add validation — iteration 17 (2022)
 - Add helper — iteration 19 (2022)
+- Polish code — iteration 24 (2022)
