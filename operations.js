@@ -151,3 +151,4 @@ await doc.send(new QueryCommand({
 - Add feature — iteration 16 (2022)
 - Add feature — iteration 18 (2022)
 - Document usage — iteration 21 (2022)
+- Fix edge case — iteration 27 (2022)
