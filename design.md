@@ -177,3 +177,4 @@
 - Improve error handling — iteration 54 (2022)
 - Add helper — iteration 57 (2022)
 - Add tests — iteration 59 (2022)
+- Extend coverage — iteration 60 (2022)
