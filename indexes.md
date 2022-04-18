@@ -139,3 +139,4 @@
 - Fix typo — iteration 3 (2022)
 - Document usage — iteration 11 (2022)
 - Update docs — iteration 15 (2022)
+- Add validation — iteration 17 (2022)
