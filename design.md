@@ -157,3 +157,4 @@
 - Add example — iteration 59 (2021)
 - Fix edge case — iteration 60 (2021)
 - Improve naming — iteration 1 (2022)
+- Polish code — iteration 4 (2022)
