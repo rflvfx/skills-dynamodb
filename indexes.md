@@ -138,3 +138,4 @@
 - Update config — iteration 52 (2021)
 - Fix typo — iteration 3 (2022)
 - Document usage — iteration 11 (2022)
+- Update docs — iteration 15 (2022)
