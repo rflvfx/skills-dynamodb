@@ -143,3 +143,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 56 (2021)
 - Update docs — iteration 2 (2022)
 - Add feature — iteration 5 (2022)
+- Tweak implementation — iteration 7 (2022)
