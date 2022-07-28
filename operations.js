@@ -149,3 +149,4 @@ await doc.send(new QueryCommand({
 - Improve error handling — iteration 13 (2022)
 - Add feature — iteration 14 (2022)
 - Add feature — iteration 16 (2022)
+- Add feature — iteration 18 (2022)
