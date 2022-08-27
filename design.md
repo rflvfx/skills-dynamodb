@@ -170,3 +170,4 @@
 - Update dependencies — iteration 37 (2022)
 - Extend coverage — iteration 38 (2022)
 - Fix edge case — iteration 41 (2022)
+- Improve naming — iteration 45 (2022)
