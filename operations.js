@@ -163,3 +163,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 50 (2022)
 - Extend coverage — iteration 52 (2022)
 - Add example — iteration 53 (2022)
+- Improve naming — iteration 55 (2022)
