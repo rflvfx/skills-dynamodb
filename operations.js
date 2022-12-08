@@ -162,3 +162,4 @@ await doc.send(new QueryCommand({
 - Improve error handling — iteration 46 (2022)
 - Add tests — iteration 50 (2022)
 - Extend coverage — iteration 52 (2022)
+- Add example — iteration 53 (2022)
