@@ -184,3 +184,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 35 (2023)
 - Document usage — iteration 39 (2023)
 - Update dependencies — iteration 42 (2023)
+- Fix typo — iteration 45 (2023)
