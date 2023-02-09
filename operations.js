@@ -168,3 +168,4 @@ await doc.send(new QueryCommand({
 - Fix edge case — iteration 58 (2022)
 - Add feature — iteration 1 (2023)
 - Update docs — iteration 2 (2023)
+- Update dependencies — iteration 7 (2023)
