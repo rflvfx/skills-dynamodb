@@ -169,3 +169,4 @@ await doc.send(new QueryCommand({
 - Add feature — iteration 1 (2023)
 - Update docs — iteration 2 (2023)
 - Update dependencies — iteration 7 (2023)
+- Fix typo — iteration 9 (2023)
