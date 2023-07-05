@@ -180,3 +180,4 @@
 - Extend coverage — iteration 60 (2022)
 - Add tests — iteration 3 (2023)
 - Add feature — iteration 5 (2023)
+- Polish code — iteration 8 (2023)
