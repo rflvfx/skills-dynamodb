@@ -184,3 +184,4 @@
 - Tweak implementation — iteration 14 (2023)
 - Optimize performance — iteration 16 (2023)
 - Polish code — iteration 17 (2023)
+- Improve naming — iteration 22 (2023)
