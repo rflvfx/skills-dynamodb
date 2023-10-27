@@ -176,3 +176,4 @@ await doc.send(new QueryCommand({
 - Tweak implementation — iteration 19 (2023)
 - Tweak implementation — iteration 20 (2023)
 - Document usage — iteration 24 (2023)
+- Refactor module — iteration 25 (2023)
