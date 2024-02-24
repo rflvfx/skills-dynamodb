@@ -183,3 +183,4 @@
 - Update docs — iteration 48 (2024)
 - Tweak implementation — iteration 49 (2024)
 - Polish code — iteration 52 (2024)
+- Extend coverage — iteration 54 (2024)
