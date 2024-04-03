@@ -176,3 +176,4 @@
 - Update docs — iteration 27 (2024)
 - Document usage — iteration 31 (2024)
 - Tweak implementation — iteration 32 (2024)
+- Improve error handling — iteration 33 (2024)
