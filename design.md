@@ -200,3 +200,4 @@
 - Document usage — iteration 9 (2024)
 - Tweak implementation — iteration 13 (2024)
 - Document usage — iteration 15 (2024)
+- Update docs — iteration 22 (2024)
