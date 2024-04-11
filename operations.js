@@ -192,3 +192,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 1 (2024)
 - Update docs — iteration 3 (2024)
 - Tweak implementation — iteration 6 (2024)
+- Update dependencies — iteration 7 (2024)
