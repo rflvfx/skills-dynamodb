@@ -185,3 +185,4 @@
 - Polish code — iteration 52 (2024)
 - Extend coverage — iteration 54 (2024)
 - Add feature — iteration 55 (2024)
+- Document usage — iteration 57 (2024)
