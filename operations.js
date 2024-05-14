@@ -207,3 +207,4 @@ await doc.send(new QueryCommand({
 - Update config — iteration 40 (2024)
 - Update docs — iteration 41 (2024)
 - Minor cleanup — iteration 43 (2024)
+- Extend coverage — iteration 47 (2024)
