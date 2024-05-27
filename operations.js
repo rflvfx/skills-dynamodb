@@ -205,3 +205,4 @@ await doc.send(new QueryCommand({
 - Add helper — iteration 26 (2024)
 - Fix edge case — iteration 37 (2024)
 - Update config — iteration 40 (2024)
+- Update docs — iteration 41 (2024)
