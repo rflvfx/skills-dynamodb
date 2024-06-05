@@ -180,3 +180,4 @@
 - Add feature — iteration 35 (2024)
 - Fix edge case — iteration 36 (2024)
 - Tweak implementation — iteration 46 (2024)
+- Update docs — iteration 48 (2024)
