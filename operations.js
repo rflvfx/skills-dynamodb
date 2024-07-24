@@ -190,3 +190,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 55 (2023)
 - Add helper — iteration 59 (2023)
 - Fix typo — iteration 1 (2024)
+- Update docs — iteration 3 (2024)
