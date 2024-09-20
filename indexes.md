@@ -171,3 +171,4 @@
 - Update dependencies — iteration 58 (2023)
 - Add helper — iteration 60 (2023)
 - Improve error handling — iteration 2 (2024)
+- Document usage — iteration 14 (2024)
