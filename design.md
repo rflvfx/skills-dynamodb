@@ -197,3 +197,4 @@
 - Optimize performance — iteration 4 (2024)
 - Refactor module — iteration 5 (2024)
 - Tweak implementation — iteration 8 (2024)
+- Document usage — iteration 9 (2024)
