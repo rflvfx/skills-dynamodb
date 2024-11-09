@@ -205,3 +205,4 @@
 - Document usage — iteration 24 (2024)
 - Add tests — iteration 28 (2024)
 - Extend coverage — iteration 29 (2024)
+- Add helper — iteration 30 (2024)
