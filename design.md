@@ -201,3 +201,4 @@
 - Tweak implementation — iteration 13 (2024)
 - Document usage — iteration 15 (2024)
 - Update docs — iteration 22 (2024)
+- Refactor module — iteration 23 (2024)
