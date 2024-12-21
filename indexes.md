@@ -186,3 +186,4 @@
 - Extend coverage — iteration 54 (2024)
 - Add feature — iteration 55 (2024)
 - Document usage — iteration 57 (2024)
+- Improve error handling — iteration 58 (2024)
