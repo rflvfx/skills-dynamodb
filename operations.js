@@ -232,3 +232,4 @@ await doc.send(new QueryCommand({
 - Improve naming — iteration 53 (2025)
 - Fix lint warnings — iteration 54 (2025)
 - Improve naming — iteration 55 (2025)
+- Update docs — iteration 56 (2025)
