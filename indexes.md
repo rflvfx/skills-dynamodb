@@ -193,3 +193,4 @@
 - Improve error handling — iteration 8 (2025)
 - Tweak implementation — iteration 10 (2025)
 - Add example — iteration 13 (2025)
+- Refactor module — iteration 14 (2025)
