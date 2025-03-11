@@ -232,3 +232,4 @@
 - Fix edge case — iteration 42 (2025)
 - Update config — iteration 44 (2025)
 - Add helper — iteration 48 (2025)
+- Update docs — iteration 50 (2025)
