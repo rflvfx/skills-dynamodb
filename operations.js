@@ -217,3 +217,4 @@ await doc.send(new QueryCommand({
 - Fix lint warnings — iteration 9 (2025)
 - Update docs — iteration 11 (2025)
 - Add helper — iteration 12 (2025)
+- Tweak implementation — iteration 15 (2025)
