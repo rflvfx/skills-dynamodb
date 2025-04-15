@@ -229,3 +229,4 @@
 - Fix lint warnings — iteration 37 (2025)
 - Update config — iteration 38 (2025)
 - Update docs — iteration 40 (2025)
+- Fix edge case — iteration 42 (2025)
