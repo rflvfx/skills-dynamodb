@@ -215,3 +215,4 @@ await doc.send(new QueryCommand({
 - Improve error handling — iteration 5 (2025)
 - Improve error handling — iteration 7 (2025)
 - Fix lint warnings — iteration 9 (2025)
+- Update docs — iteration 11 (2025)
