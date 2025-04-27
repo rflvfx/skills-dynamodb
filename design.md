@@ -216,3 +216,4 @@
 - Fix edge case — iteration 51 (2024)
 - Improve error handling — iteration 56 (2024)
 - Update config — iteration 6 (2025)
+- Update docs — iteration 22 (2025)
