@@ -204,3 +204,4 @@
 - Improve naming — iteration 52 (2025)
 - Document usage — iteration 57 (2025)
 - Polish code — iteration 58 (2025)
+- Add example — iteration 59 (2025)
