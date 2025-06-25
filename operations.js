@@ -210,3 +210,4 @@ await doc.send(new QueryCommand({
 - Extend coverage — iteration 47 (2024)
 - Improve error handling — iteration 53 (2024)
 - Add example — iteration 1 (2025)
+- Add example — iteration 2 (2025)
