@@ -227,3 +227,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 34 (2025)
 - Tweak implementation — iteration 43 (2025)
 - Tweak implementation — iteration 45 (2025)
+- Add validation — iteration 46 (2025)
