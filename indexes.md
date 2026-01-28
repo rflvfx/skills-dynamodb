@@ -211,3 +211,4 @@
 - Extend coverage — iteration 11 (2026)
 - Update config — iteration 14 (2026)
 - Refactor module — iteration 16 (2026)
+- Document usage — iteration 17 (2026)
