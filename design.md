@@ -239,3 +239,4 @@
 - Update config — iteration 8 (2026)
 - Add validation — iteration 9 (2026)
 - Tweak implementation — iteration 12 (2026)
+- Extend coverage — iteration 15 (2026)
