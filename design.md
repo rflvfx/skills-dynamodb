@@ -250,3 +250,4 @@
 - Add helper — iteration 45 (2026)
 - Minor cleanup — iteration 46 (2026)
 - Improve error handling — iteration 49 (2026)
+- Add tests — iteration 53 (2026)
