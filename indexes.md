@@ -222,3 +222,4 @@
 - Document usage — iteration 36 (2026)
 - Optimize performance — iteration 42 (2026)
 - Improve naming — iteration 44 (2026)
+- Extend coverage — iteration 47 (2026)
