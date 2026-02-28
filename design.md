@@ -240,3 +240,4 @@
 - Add validation — iteration 9 (2026)
 - Tweak implementation — iteration 12 (2026)
 - Extend coverage — iteration 15 (2026)
+- Document usage — iteration 26 (2026)
