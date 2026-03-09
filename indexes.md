@@ -223,3 +223,4 @@
 - Optimize performance — iteration 42 (2026)
 - Improve naming — iteration 44 (2026)
 - Extend coverage — iteration 47 (2026)
+- Add example — iteration 48 (2026)
