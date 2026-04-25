@@ -247,3 +247,4 @@ await doc.send(new QueryCommand({
 - Update dependencies — iteration 32 (2026)
 - Polish code — iteration 34 (2026)
 - Fix typo — iteration 37 (2026)
+- Add example — iteration 41 (2026)
