@@ -219,3 +219,4 @@
 - Update config — iteration 23 (2026)
 - Document usage — iteration 24 (2026)
 - Improve naming — iteration 33 (2026)
+- Document usage — iteration 36 (2026)
