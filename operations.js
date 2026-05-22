@@ -237,3 +237,4 @@ await doc.send(new QueryCommand({
 - Refactor module — iteration 1 (2026)
 - Add example — iteration 2 (2026)
 - Update docs — iteration 3 (2026)
+- Add tests — iteration 13 (2026)
