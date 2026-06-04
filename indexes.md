@@ -214,3 +214,4 @@
 - Document usage — iteration 17 (2026)
 - Improve error handling — iteration 18 (2026)
 - Polish code — iteration 20 (2026)
+- Optimize performance — iteration 21 (2026)
