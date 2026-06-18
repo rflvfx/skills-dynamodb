@@ -208,3 +208,4 @@
 - Fix typo — iteration 4 (2026)
 - Improve naming — iteration 6 (2026)
 - Improve error handling — iteration 10 (2026)
+- Extend coverage — iteration 11 (2026)
