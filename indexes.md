@@ -228,3 +228,4 @@
 - Update config — iteration 51 (2026)
 - Extend coverage — iteration 52 (2026)
 - Tweak implementation — iteration 54 (2026)
+- Add validation — iteration 55 (2026)
