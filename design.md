@@ -241,3 +241,4 @@
 - Tweak implementation — iteration 12 (2026)
 - Extend coverage — iteration 15 (2026)
 - Document usage — iteration 26 (2026)
+- Fix edge case — iteration 29 (2026)
