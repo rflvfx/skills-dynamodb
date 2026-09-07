@@ -243,3 +243,4 @@ await doc.send(new QueryCommand({
 - Tweak implementation — iteration 27 (2026)
 - Update config — iteration 28 (2026)
 - Minor cleanup — iteration 30 (2026)
+- Add example — iteration 31 (2026)
