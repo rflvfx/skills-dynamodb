@@ -241,3 +241,4 @@ await doc.send(new QueryCommand({
 - Add tests — iteration 19 (2026)
 - Improve naming — iteration 25 (2026)
 - Tweak implementation — iteration 27 (2026)
+- Update config — iteration 28 (2026)
