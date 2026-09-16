@@ -244,3 +244,4 @@
 - Fix edge case — iteration 29 (2026)
 - Add tests — iteration 35 (2026)
 - Add helper — iteration 38 (2026)
+- Extend coverage — iteration 39 (2026)
