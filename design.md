@@ -243,3 +243,4 @@
 - Document usage — iteration 26 (2026)
 - Fix edge case — iteration 29 (2026)
 - Add tests — iteration 35 (2026)
+- Add helper — iteration 38 (2026)
