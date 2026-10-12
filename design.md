@@ -249,3 +249,4 @@
 - Add validation — iteration 43 (2026)
 - Add helper — iteration 45 (2026)
 - Minor cleanup — iteration 46 (2026)
+- Improve error handling — iteration 49 (2026)
