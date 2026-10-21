@@ -242,3 +242,4 @@
 - Extend coverage — iteration 15 (2026)
 - Document usage — iteration 26 (2026)
 - Fix edge case — iteration 29 (2026)
+- Add tests — iteration 35 (2026)
