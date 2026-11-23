@@ -249,3 +249,4 @@ await doc.send(new QueryCommand({
 - Fix typo — iteration 37 (2026)
 - Add example — iteration 41 (2026)
 - Add example — iteration 57 (2026)
+- Fix lint warnings — iteration 58 (2026)
